@@ -12,6 +12,9 @@ Smart Health Detector is a disease prediction system using Machine Learning mode
 - Panda
 - Seaborn
 
+## Project Files:
+Due to the large size of the datasets and models used in this project, the full project (including datasets) has not been uploaded to GitHub. However, the core code and documentation are available for review.
+
 ## How to Run:
 1. Clone this repository.
 2. Create a conda environment and activate that environment.
